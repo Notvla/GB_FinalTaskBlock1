@@ -1,0 +1,15 @@
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\bin\Debug\net6.0\GB_FinalWorkBlock1.exe
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\bin\Debug\net6.0\GB_FinalWorkBlock1.deps.json
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\bin\Debug\net6.0\GB_FinalWorkBlock1.runtimeconfig.json
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\bin\Debug\net6.0\GB_FinalWorkBlock1.dll
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\bin\Debug\net6.0\GB_FinalWorkBlock1.pdb
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.csproj.AssemblyReference.cache
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.AssemblyInfoInputs.cache
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.AssemblyInfo.cs
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.csproj.CoreCompileInputs.cache
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.dll
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\refint\GB_FinalWorkBlock1.dll
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.pdb
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\GB_FinalWorkBlock1.genruntimeconfig.cache
+C:\Users\justv\Desktop\GB_FinalWork\GB_FinalWorkBlock1\obj\Debug\net6.0\ref\GB_FinalWorkBlock1.dll
